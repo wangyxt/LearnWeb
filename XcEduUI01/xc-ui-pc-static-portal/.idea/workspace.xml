@@ -1,19 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/controller/CmsPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/PageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/dao/CmsPageRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../XcEduService01/xc-service-manage-cms/xc-service-manage-cms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/model01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test02/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test02/src/model01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test02/src/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test02/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test02/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XcEduService01/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XcEduService01/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XcEduService01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XcEduService01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XcEduService01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../XcEduService01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../XcEduService01/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request/QueryPageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../XcEduService01/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request/QueryPageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="xc-ui-pc-static-portal" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,40 +102,43 @@
       <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>true</other-services-enabled>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1374" />
-    <option name="height" value="732" />
-  </component>
   <component name="ProjectId" id="1c0t4YW6tOlSvjcFGh6yVx8SNDI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test02" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test02" />
+      <recent name="$PROJECT_DIR$/test02/src" />
+      <recent name="$PROJECT_DIR$/test01" />
       <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
       <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\js" />
-      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\include" />
-      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\webuploader" />
-      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\ckplayer" />
     </key>
   </component>
   <component name="RunManager">
@@ -106,6 +157,21 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/test02/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,6 +202,13 @@
       <workItem from="1528190447746" duration="8000" />
       <workItem from="1528249696513" duration="770000" />
       <workItem from="1589677151213" duration="4000" />
+      <workItem from="1589961156124" duration="5272000" />
+      <workItem from="1590108388481" duration="1263000" />
+      <workItem from="1590156643507" duration="763000" />
+      <workItem from="1590158750344" duration="117000" />
+      <workItem from="1590159057452" duration="184000" />
+      <workItem from="1590293775381" duration="335000" />
+      <workItem from="1590297050033" duration="1399000" />
     </task>
     <servers />
   </component>
@@ -147,5 +220,53 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590054543805">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="698" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.977@0.23.1920.977" timestamp="1590054543804" />
+    <state width="1379" height="264" key="GridCell.Tab.0.bottom" timestamp="1590496052203">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="264" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1590496052203" />
+    <state width="1379" height="264" key="GridCell.Tab.0.center" timestamp="1590496052202">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="264" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1590496052202" />
+    <state width="1379" height="264" key="GridCell.Tab.0.left" timestamp="1590496052201">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="264" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1590496052201" />
+    <state width="1379" height="264" key="GridCell.Tab.0.right" timestamp="1590496052202">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="264" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1590496052202" />
+    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1590478429820">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1590478429820" />
+    <state x="690" y="430" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590293974283">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="690" y="430" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.977@0.23.1920.977" timestamp="1590293974283" />
   </component>
 </project>

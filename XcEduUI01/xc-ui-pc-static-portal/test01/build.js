@@ -95,7 +95,7 @@ module.exports = g;
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var {add} = __webpack_require__(2)
+var {add1} = __webpack_require__(2)
 var Vue = __webpack_require__(3)
 
 var VM = new Vue({
@@ -108,7 +108,7 @@ var VM = new Vue({
     },
     methods:{
         change:function () {
-            this.result = add(Number.parseInt(this.num1),Number.parseInt(this.num2));
+            this.result = add1(Number.parseInt(this.num1),Number.parseInt(this.num2));
             alert(this.result)
         }
     }

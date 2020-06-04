@@ -12,7 +12,7 @@ var VM = new Vue({
     },
     methods:{
         change:function () {
-            this.result = add1(Number.parseInt(this.num1),Number.parseInt(this.num2));
+            // this.result = add1(Number.parseInt(this.num1),Number.parseInt(this.num2));
             alert(this.result)
         }
     }

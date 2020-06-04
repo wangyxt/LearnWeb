@@ -7,6 +7,7 @@ import com.xuecheng.framework.domain.cms.response.CmsPageResult;
 import com.xuecheng.framework.model.response.CommonCode;
 import com.xuecheng.framework.model.response.QueryResponseResult;
 import com.xuecheng.framework.model.response.QueryResult;
+import com.xuecheng.framework.model.response.ResponseResult;
 import com.xuecheng.manage_cms.service.PageService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
@@ -48,5 +49,24 @@ public class CmsPageController implements CmsPageControllerApi {
         return pageService.add(cmsPage);
     }
 
-    @Override @GetMapping("/get/{id}") public CmsPage findById(@PathVariable("id") String id) { return pageService.getById(id); }
+    @Override
+    @GetMapping("/get/{id}")
+    public CmsPageResult findById(@PathVariable("id") String id) {
+        CmsPage result = pageService.getById(id);
+        if (result!=null){
+            return new CmsPageResult(CommonCode.SUCCESS,result);
+        }
+        return new CmsPageResult(CommonCode.FAIL,null);
+    }
+
+    @Override
+    @PutMapping("/edit")
+    public CmsPageResult edit(@RequestBody CmsPage cmsPage){
+        return pageService.update(cmsPage.getPageId(),cmsPage);
+    }
+
+    @DeleteMapping("/del/{id}") //使用http的delete方法完成岗位操作
+    public ResponseResult delete(@PathVariable("id") String id) {
+        return pageService.delete(id);
+    }
 }
